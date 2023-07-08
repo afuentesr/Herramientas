@@ -4,7 +4,7 @@
     {"alumno":"Jorge","nota":8,"ranking":20},
     {"alumno":"Daniel","nota":3,"ranking":80},
     {"alumno":"Jair","nota":4.2,"ranking":62},
-    {"alumno":"Jaime","nota":2.2,"ranking":22},
+    {"alumno":"Jaime","nota":2.2,"ranking":78},
     {"alumno":"Andrés","nota":1.1,"ranking":100},
     {"alumno":"Luis","nota":5.7,"ranking":57},
     {"alumno":"Edgar","nota":6.9,"ranking":40}
